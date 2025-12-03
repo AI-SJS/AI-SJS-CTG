@@ -74,3 +74,18 @@ To reproduce the ADE20K experiments:
 
 - **ADE20K Heatmap 시각화 코드**  
   Run: [`ADE20K+heatmap코드.ipynb`](./ADE20K+heatmap%EC%BD%94%EB%93%9C.ipynb)
+
+
+  ---
+
+## Run on OpenImages V7
+
+To reproduce the OpenImages V7 experiments:
+
+- **OpenImages V7 재구현 코드**  
+  Run: [`ADE20K_재구현_코드.ipynb`](./ADE20K_재구현_코드.ipynb)
+
+- **OpenImages V7 + CTG 실험 코드**  
+  Run: [`ADE20K + CTG_코드.ipynb`](./ADE20K%20+%20CTG_%EC%BD%94%EB%93%9C.ipynb)
+
+
