@@ -9,8 +9,8 @@
 To get started, clone the repository and install dependencies:
 
 ```bash
-!git clone https://github.com/WalBouss/GEM.git
-%cd GEM
+!git clone --recurse-submodules https://github.com/AI-SJS/AI-SJS-CTG.git
+%cd AI-SJS-CTG/GEM
 !pip install -e .
 ```
 
