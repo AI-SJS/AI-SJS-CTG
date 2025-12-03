@@ -83,9 +83,10 @@ To reproduce the ADE20K experiments:
 To reproduce the OpenImages V7 experiments:
 
 - **OpenImages V7 재구현 코드**  
-  Run: [`ADE20K_재구현_코드.ipynb`](./ADE20K_재구현_코드.ipynb)
+  Run: [`Openimagesv7_재구현_코드.ipynb`](./Openimagesv7_%E1%84%8C%E1%85%A2%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb)
 
 - **OpenImages V7 + CTG 실험 코드**  
-  Run: [`ADE20K + CTG_코드.ipynb`](./ADE20K%20+%20CTG_%EC%BD%94%EB%93%9C.ipynb)
+  Run: [`openimagesv7+CTG_코드.ipynb`](./openimagesv7%2BCTG_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb)
+
 
 
