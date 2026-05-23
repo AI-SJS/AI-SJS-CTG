@@ -89,5 +89,17 @@ To reproduce the OpenImages V7 experiments:
 - **OpenImages V7 + CTG 실험 코드**  
   Run: [`openimagesv7+CTG_코드.ipynb`](./openimagesv7%2BCTG_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb)
 
+## Citation
 
+```bibtex
+@inproceedings{post_hoc_logit_refinement_ctg_2026,
+  title={Post-hoc Logit Refinement via Contrastive Top-K Guidance for Zero-shot Open Vocabulary Segmentation},
+  author={Jeong, Ayoung and Seo, Jaeseok and Jang, Keunhyeock and Jung, Wonsik},
+  year={2026}
+}
+```
+
+## Acknowledgement
+
+This work was supported by the IITP MSIT SW-centered University Program (2024-0-00047).
 
